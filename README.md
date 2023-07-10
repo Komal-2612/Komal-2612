@@ -15,9 +15,8 @@
 Profileme.dev
 --->
 
-* [Website](https://www.ojasvajain.in/)
 * Mail- [2020uee1483@mnit.ac.in](mailto:2020uee1483@mnit.ac.in)
-* Contact Number:- +91-9826623499
+* Contact Number:- +91-9423029593
 * I am Computer Science Engineer(2024) Graduate from IIIT Kota with a passion for logical and critical thinking. I have a deep love for mathematics and  consider myself a tech enthusiast.
 
   What sets me apart is my keen interest in finance and trading. I find the world of investments and markets fascinating and continuously strive to expand my   knowledge in this area.
