@@ -1,7 +1,7 @@
 ### HEY !!! 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=red&background=00FFE400&center=true&width=435&lines=Komal+Kshirsagar+This+Side+.....;Electronics+Communication+Engineering+Graduate;MNIT+Jaipur+(ECE)+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=red&background=00FFE400&center=true&width=435&lines=Komal+Kshirsagar+This+Side+.....;Electrical+Engineering+Graduate;MNIT+Jaipur+EE+2024)](https://git.io/typing-svg)
 
 
 
